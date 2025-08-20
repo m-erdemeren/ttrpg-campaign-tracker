@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "323cc038-4466-4100-8b30-684aec4fbf86"
+      }
+    },
+    "owner": "erdem.eren"
   }
 }
